@@ -1,9 +1,12 @@
 {
   "name":"my-emby专用", "description":"作者：KiritoC", 
   "icons":[    
-    {"name":"jingzhe-emby", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/jingzhe.png"},
-    {"name":"moyunge-emby", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/moyunge.png"},
-    {"name":"moyunge-emby", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/mine.png"},
-    {"name":"moyunge-emby", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/cim.png"}
+    {"name":"jingzhe", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/jingzhe.png"},
+    {"name":"moyunge", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/moyunge.png"},
+    {"name":"mine", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/mine.png"},
+    {"name":"cim", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/cim.png"},
+    {"name":"mine2", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/mine2.png"},
+    {"name":"mine3", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/mine3.png"},
+    {"name":"mine4", "url":"https:\/\/raw.githubusercontent.com\/KiritoCC\/icon\/main\/emby-icon\/mine4.png"},
  ]
 }
